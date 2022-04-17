@@ -1,0 +1,800 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",OL| AL RTK 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400216105
+#EXTINF:0 tvg-id="ext" group-title="Channels",OL| AL RTK 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400216104
+#EXTINF:0 tvg-id="ext" group-title="Channels",OL| AL RTK 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400216103
+#EXTINF:0 tvg-id="ext" group-title="Channels",OL| AL RTK 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400216102
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TOP CHANNEL   FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148422
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KLAN PLUS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148420
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| VIZION PLUS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148419
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| VIZION PLUS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148418
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DASMA TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148370
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| HUMOR 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261873
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| HUMOR 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261872
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| HUMOR 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261871
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| HUMOR 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261870
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| HUMOR 5 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261869
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PLEQENART HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261860
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ZYHRA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261861
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| QUMILI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261862
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MINISTRIA E SHYHRETIT HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261863
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KOMEDI KOSOVARE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261864
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KOMEDI SHQIPTARE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261865
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CIMA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261866
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SHENGEN VISA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261867
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STUPCAT EGJELI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261868
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148406
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH SAT HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148405
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/212427
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183883
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183931
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH PLUS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183933
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH 24 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184092
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH MUZIKE HD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148404
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH SHQIP HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183934
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH FILM HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148402
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH FEMIJE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148401
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH SHKODRA FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148399
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH GJIROKASTRA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148398
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH KORCA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360051
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH KUVEND HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148397
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTSH SPORT HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184119
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148346
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ISLAM FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183937
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV MEKA LIVE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118134
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PENDIMI TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/117943
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TEMA TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118079
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ZJARR TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118197
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV OPOJA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148324
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PEACE TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/117940
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ERA TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148322
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TIRANA TV
+http://line.thesmartiptv.com:900/7757097466/7877700235/118083
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV 21 MAQEDONIA FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183936
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| AMOL TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148318
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| LIVING FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183913
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SYRI BLUE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118066
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STAR PLUS SHKODER HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118050
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL|  TV 1 SHKODER HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148307
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ANTENA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148303
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV ROZAFA SHKODER HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148300
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ALDI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184037
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ADRIA NET HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183998
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| 24 KITCHEN HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183860
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PREMIUM CHANNEL HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148290
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV OPINIONI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118136
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| LOBI TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183914
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV 1 ALBANIA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148283
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV AHIRETI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261858
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TELEVIZIJA 5 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261856
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV MEDINA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261855
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KUR'ANI HIDAYAH HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261854
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| HUTBE ISLAME HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261853
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| HUTBE ISLAME 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261852
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALB MUSLIM TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261850
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ELKALEM HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261849
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV CHICAGO HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118124
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALB UK HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183964
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/212451
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KLAN KOSOVA FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400252329
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KLAN KOSOVA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183904
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV 21 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400252331
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV 21 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183851
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KANAL 10 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184036
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ATV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148246
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KTV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/212446
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KTV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183848
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TOP CHANNEL FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360050
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TOP CHANNEL HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118088
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV DUKAGJINI FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360046
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KLAN FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183903
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KLAN HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/321597
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| T7 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118071
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| T7 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360047
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTK 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183924
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTK 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183925
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTK 3 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183926
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTK 4 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183927
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148448
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PRESHEVA RTV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/117949
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV BESA PRIZREN HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118122
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV MITROVICA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118135
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DRITA TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183836
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ISTOGU CHANNEL FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183900
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KORA PLUS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261896
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV GLOBI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261895
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| REAL TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261894
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALPO TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261893
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| NTV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261892
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV GOLD JOHANITER HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261891
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALBSE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261890
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV LEZHA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261889
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SARANDA TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261888
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PREMIUM TRAVEL FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261886
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV TEUTA FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261885
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TELEVIZIONI TV R HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261884
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV PODUJEVA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261883
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148245
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EUROSPORT 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184102
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EUROSPORT 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184104
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT NEWS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118056
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT KOSOVA 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118045
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT KOSOVA 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118046
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118041
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118057
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118058
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118059
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 5 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118060
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 6 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118061
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 7 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400142477
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT NEWS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118114
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118110
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118111
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118112
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118113
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KUJTESA SPORT 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184112
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KUJTESA SPORT 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184113
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KUJTESA SPORT 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184114
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KUJTESA SPORT 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184115
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KUJTESA SPORT 5 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400260898
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/212452
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148238
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360088
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 3 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360089
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 4 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360090
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 5 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360091
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPER SPORT 6 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148242
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360092
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360093
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT 3 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360094
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SPORT 4 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360095
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART SPORT 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184099
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART SPORT 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184100
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART SPORT 3 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184101
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART SPORT 4 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400260893
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART SPORT 5 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400260892
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART SPORT 6 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400260891
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/185707
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EB TOM AND JERRY HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400149111
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| BOOMERANG HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183951
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MCN TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400149106
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TIP TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118082
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SOFIA FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118037
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SMILE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118036
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| UFO HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183973
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| BANG BANG HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183965
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| JUNIOR TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/212445
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV 21 JUNIOR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183962
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DUCK TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183968
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| NICK JUNIOR FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/117930
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DISNEY JUNIOR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183953
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| BABY TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183957
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING TRING HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118116
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ARBRIA 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400271474
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING KIDS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118102
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMA VIZATIMOR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261781
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMA VIZATIMOR 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261780
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMA VIZATIMOR 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261779
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMA VIZATIMOR 5 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261778
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/185705
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALBSWISS TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148297
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| APOLLON TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148319
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| AA NEWYORK TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261760
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ACTV MICHIGAN HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261759
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| BBF MUSIC #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148373
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CLICK TV #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148374
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DIASPORA TV #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148350
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DIELLI TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184008
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ELRODI TV #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148376
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| E MIR TV MUZIK HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261757
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FRAME TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261761
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FOLK + #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148378
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FASHION TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183893
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KLAN MUSIC #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148377
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ARBRIA 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400271475
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| LUGINA POPULLORE HD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148364
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| LLAPI TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148440
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MFM MUSIK FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148368
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| LIRIA TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148301
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MTV HITS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261765
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MTV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261764
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MELODY TV #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148375
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MTV KOSOVA #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148366
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MY MUSIC #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148362
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MALISHEVA TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148435
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| MUSE TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148320
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ON TV HD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148289
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| POLLOGU HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148284
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV21 POPULLORE FHD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148371
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ROMA TV #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148354
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV MALISHEVA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148434
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV21 PLUS FHD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148316
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV21 MIX FHD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148315
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV FONTANA HD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148310
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| START TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261758
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SPIN TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118039
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY BLUE TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148299
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SYRI VISION TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148302
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SUPERSONIC TV HD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148326
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV ZIKO FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261763
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV KOPLIKU
+http://line.thesmartiptv.com:900/7757097466/7877700235/118132
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV ULQINI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148292
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TOP ESTRADA TV #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148367
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TURBO CHANNEL TV HD #EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148311
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV FLUTURA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261762
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| USKANA TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148282
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/212453
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ANTENA SHKODER HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118152
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ABC NEWS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184077
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ARTA NEWS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360056
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| A1 REPORT FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184087
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| A2 NEWS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184085
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EURONEWS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184079
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FAX NEWS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184080
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KLAN NEWS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261771
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KANALI 7 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184090
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| NEWS 24 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360057
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| NEWS TV MK FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261770
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ORA NEWS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360058
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ORA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261769
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ZERI TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118195
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV 21 NEWSBIZ HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184083
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| REPORT FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184091
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SCAN TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/184093
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SYRI TV HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183939
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SYRI NEWS TV
+http://line.thesmartiptv.com:900/7757097466/7877700235/184084
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TOP NEWS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118090
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KANALI 7 NEWS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183803
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/185708
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ANIMAL PLANET HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183866
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| NAT GEO FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183865
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DOKUMENTAR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261776
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DISCOVERY SCIENCE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183862
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| D-DOKUMENTAR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261772
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| E MIR TV DOKUMENTAR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261773
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EXPLORER NATYRA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183877
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EXPLORER HISTORI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183876
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EXPLORER SHKENCE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183878
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| GJURME SHQIPTARE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183840
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY PLANET HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118034
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY GALAXY FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261774
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY GEO FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261775
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRAVEL CHANNEL FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118091
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING PLANET FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118106
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING HISTORY HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118097
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/185709
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CINEMA 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360069
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TELE ONE 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118073
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TELE ONE 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118074
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TELE ONE 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183856
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TELE ONE 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118076
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TELE ONE 5 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118077
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TELE ONE 6 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118078
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KARATE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261815
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PRIME TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261804
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING WORLD HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118117
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SUPER FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360076
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING SHQIP HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118107
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING COMEDY FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183829
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING LIFE FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183832
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING FANTASY HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118096
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING ACTION FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261848
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING INTERNATIONAL FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261847
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING FAMILY FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261846
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING NOVELAS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261845
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FOX HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183838
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FOX LIFE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183863
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FOX CRIME HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183828
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FOX MOVIE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261844
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM NJ HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183667
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM DY HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183658
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM HITS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183664
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM AKSION FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/224628
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM THRILLER HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183669
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM DRAME HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183657
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM KOMEDI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183665
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM AUTOR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183656
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| DIZI TDC FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/33101
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PLUS FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/117945
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FAMILY FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/360073
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ARBRIA 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400271448
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ARBRIA 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400271473
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| T FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118070
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STINET HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183813
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART DOKU 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183885
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART DOKU 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183886
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART KINO 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183820
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART KINO 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183821
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ART KINO 3 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183822
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EURO FILM HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183651
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EURO FILM 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183652
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EURO FILM 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183653
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EURO FILM 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183677
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EURO FILM 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183655
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMBOX FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261843
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMBOX PREMIUM FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261842
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMBOX ARTHOUSE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261841
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM BOX EXTRA FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183671
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FIRST TV FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183782
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALB ACTION HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183808
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY 7 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261840
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY SHQIP HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261839
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY STAR FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261838
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY AKSION FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118024
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY MAX HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118032
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY KOMEDI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118026
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY DRAMA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183791
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| SKY NOVELA FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118033
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV FESTINA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148490
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| X PREMIUM 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118181
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| X PREMIUM 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118182
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| PORTOKALLI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183920
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| E MIR TV FILM 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261803
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| E MIR TV FILM ACTION HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261802
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| E MIR TV FILM HITS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261801
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CINESTAR TV COMEDY HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/32103
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CINESTAR TV 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/32104
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CINESTAR TV 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/32105
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CINESTAR TV ACTION HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/32106
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CINESTAR TV PREMIERE 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/32107
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CINESTAR TV PREMIERE 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/32108
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CINESTAR TV FANTASY HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/32109
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| D-1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261800
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| D-ACTION HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261799
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| D-HITS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261798
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KINO PREMIERE 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261830
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KINO PREMIERE 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261829
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KINO PREMIERE 3 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261828
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KINO PREMIERE 4 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261827
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM PREMIUM 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261826
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM PREMIUM 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261825
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM PREMIUM 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261824
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM PREMIUM 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261823
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM FAMILY HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261822
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM ROMANCE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261821
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM MIX HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261820
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILM MIX 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261819
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMA ROMANCE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261818
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMA HORROR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261817
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| FILMA PREMIER HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261816
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 1 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261814
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ILIRIDA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/76205
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ILIRIDA FILMA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/76200
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ILIRIDA FEMIJE HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/76201
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ILIRIDA DADOKUMENTAR HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/76202
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ILIRIDA HUMOR SHQIP HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/76203
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTV ILIRIDA TV MENDI HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/76204
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261813
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 3 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261812
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 4 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261811
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 5 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261810
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 6 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261809
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 7 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261808
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 8 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261807
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 9 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261806
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| STARFILM 10 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261805
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| Q PREMIUM 1 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261837
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| Q PREMIUM 2 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261836
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| Q PREMIUM 3 FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400261835
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL|CATI MOVIE 3
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370776
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL|CATI MOVIE 2
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370777
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL|CATI MOVIE 1
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370778
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CATI HUMOR
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370779
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CATI QIFTELI
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370780
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CATI DARSMASH
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370781
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CATI TALLAVA
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370782
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CATI BURIMOR
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370783
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CATI HITS
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370784
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| CATI DANCE 01
+http://line.thesmartiptv.com:900/7757097466/7877700235/400370785
+#EXTINF:0 tvg-id="ext" group-title="Channels",#EXTVLCOPT:network-caching=1000
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148472
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALSAT M FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148471
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALSAT HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148470
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| ALSAT FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148469
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TRING 3 PLUS HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148468
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KANAL D DRAMA FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183793
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| RTM 2 HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183918
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| JOLLY FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148466
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| EPISODE FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148463
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV SHENJA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148461
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| KLAN MACEDONIA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/183905
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV TETOVA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118146
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV KOHA HD
+http://line.thesmartiptv.com:900/7757097466/7877700235/118131
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL| TV 2 GOSTIVAR FHD
+http://line.thesmartiptv.com:900/7757097466/7877700235/400148457
+
